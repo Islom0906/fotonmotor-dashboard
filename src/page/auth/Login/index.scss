@@ -1,0 +1,23 @@
+.login--page{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+
+
+  .login-card{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    gap: 10px;
+
+  .logo-login{
+    width: 200px;
+    height: 100px;
+
+  }
+  }
+}
